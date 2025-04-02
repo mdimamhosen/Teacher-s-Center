@@ -19,3 +19,9 @@ export default function Home() {
     </div>
   );
 }
+
+//! This is the main layout of the application.
+// - Imported Header, Sidebar, and MainContent components.
+// - Displayed the Header at the top.
+// - Used a flex container to arrange Sidebar on the left and MainContent on the right.
+// - Ensured full height with min-h-[100vh].

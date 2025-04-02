@@ -48,3 +48,9 @@ const HeaderComponent = () => {
 };
 
 export default HeaderComponent;
+
+//! This is the header section of the application.
+// - Displays the title "Teacher's Center" with a link to the homepage.
+// - Includes icons for support (FaHeadset) and notifications (MdNotificationsActive).
+// - Shows a user profile section with an image, name, subject, and level.
+// - Uses responsive styling for different screen sizes.

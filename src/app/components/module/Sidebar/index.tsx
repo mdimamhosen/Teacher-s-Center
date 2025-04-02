@@ -98,3 +98,9 @@ const Sidebar = () => {
 };
 
 export default Sidebar;
+
+// ! This is a responsive sidebar component.
+// - It includes navigation items like Dashboard, Manage Batch, My Earnings, Timetable, and Analytics.
+// - "Manage Batch" has a dropdown with sub-items.
+// - A toggle button allows opening/closing the sidebar on mobile devices.
+// - The footer contains options for managing the profile and settings.

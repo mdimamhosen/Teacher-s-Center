@@ -1,10 +1,5 @@
-Here’s a **professional and well-structured `README.md`** for your project:
-
----
-
 ### 📌 **README.md for Teacher's Center**
 
-```md
 # 🏫 Teacher's Center
 
 A **Next.js** web application designed to provide an intuitive interface for managing educational resources. This project was built as part of a technical assessment, focusing on clean code, UI consistency, and best practices.
@@ -45,6 +40,7 @@ This project was developed as a coding assessment to showcase my skills in **Rea
 ---
 
 ## 📁 **Project Structure**
+
 ```
 
 /Teacher-s-Center
@@ -55,15 +51,17 @@ This project was developed as a coding assessment to showcase my skills in **Rea
 │── package.json # Dependencies
 │── README.md # Project documentation
 
-````
+```
 
 ---
 
 ## 🔥 **How to Run Locally**
+
 1️⃣ **Clone the repository**
+
 ```sh
 git clone https://github.com/mdimamhosen/Teacher-s-Center.git
-````
+```
 
 2️⃣ **Navigate into the project directory**
 
